@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigasi_kesehatan"
+        android:icon="@drawable/icon_kesehatan"
+        android:title="Kesehatan" />
+
+    <item
+        android:id="@+id/navigasi_difabel"
+        android:icon="@drawable/icon_difable"
+        android:title="Difabel" />
+
+    <item
+        android:id="@+id/navigasi_zakat"
+        android:icon="@drawable/ic_zakat"
+        android:title="Zakat" />
+
+    <item
+        android:id="@+id/navigasi_lainnya"
+        android:icon="@drawable/icon_lainnya"
+        android:title="Lainnya" />
+
+</menu>

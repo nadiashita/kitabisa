@@ -1,0 +1,2 @@
+rootProject.name = "kitabisa"
+include ':app'
